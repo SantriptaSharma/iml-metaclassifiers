@@ -1,0 +1,16 @@
+Unmodified datasets are in datasets_src
+- campusrecruitment (https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement/)
+- student_testprep (https://www.kaggle.com/datasets/rkiattisak/student-performance-in-mathematics)
+- mobile_price (https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)
+- aus_rain (https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)
+- titanic (https://www.kaggle.com/datasets/shubhamgupta012/titanic-dataset)
+- employability (https://www.kaggle.com/datasets/jonathanllacre/determine-if-they-are-ideally-employable)
+- stress (https://www.kaggle.com/datasets/rxnach/student-stress-factors-a-comprehensive-analysis/data)
+- anemia (https://www.kaggle.com/datasets/adeolaadesina/factors-affecting-children-anemia-level)
+- fraud (https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023/data)
+- wine (https://huggingface.co/datasets/katossky/wine-recognition)
+- loan (https://www.kaggle.com/datasets/vikramamin/bank-loan-approval-lr-dt-rf-and-auc)
+- shipping (https://www.kaggle.com/datasets/prachi13/customer-analytics)
+- drug (https://www.kaggle.com/datasets/prathamtripathi/drug-classification/data)
+
+count: 13

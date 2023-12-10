@@ -1,0 +1,7 @@
+- no of datapoints
+- no of numeric features
+- no of categorical features
+- no of classes/labels
+- percentage of majority class (how common is the most common class)
+
+need a couple more

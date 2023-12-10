@@ -1,0 +1,8 @@
+The models I'm planning to use are:
+- logistic regression
+- k-nearest neighbours
+- shallow feedforward network/fully-connected network
+- decision tree
+- random forest
+- gda
+- svm
