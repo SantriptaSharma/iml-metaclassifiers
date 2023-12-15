@@ -1,6 +1,9 @@
 - no of datapoints
+- no of features
 - no of numeric features
-- no of categorical features
+- average correlation b/w numeric features
+- no of binary categorical features
+- ratio numeric features:categorical features w laplace smoothing (selected to allow linear classifiers to utilise this)
 - no of classes/labels
 - percentage of majority class (how common is the most common class)
 

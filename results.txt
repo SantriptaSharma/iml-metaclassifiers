@@ -1,0 +1,19 @@
+anemia: decision tree (3)
+aus_rain: logi (0)
+campusrecruitment: logi (0)
+employability: ffn (2)
+fraud: rf (4)
+loan: dt (3)
+mobile_price: logi (0)
+stress: dt (3)
+student_testprep: logi (0)
+titanic: ffn (2)
+wine: logi (0)
+drug: dt (3)
+shipping: rf (4)
+
+counts: 
+logi: 5
+dt: 4
+rf: 2
+ffn: 2
