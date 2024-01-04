@@ -3,5 +3,7 @@ datasets_compressed
 skl.pdf
 linearseparability.pdf
 
+*$*.pptx
 venv/
 kp/
+datasets/

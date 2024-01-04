@@ -4,5 +4,3 @@ The models I'm planning to use are:
 - shallow feedforward network/fully-connected network
 - decision tree
 - random forest
-- gda
-- svm

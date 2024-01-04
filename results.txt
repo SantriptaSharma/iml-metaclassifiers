@@ -17,3 +17,4 @@ logi: 5
 dt: 4
 rf: 2
 ffn: 2
+knn: 0
